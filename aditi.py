@@ -1,1 +1,1 @@
-printhello world
+print(helloworld
